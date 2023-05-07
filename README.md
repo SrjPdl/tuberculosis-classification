@@ -13,6 +13,7 @@ The dataset is taken from Kaggle [Tubersulosis Chest X-ray dataset](https://www.
 The project was done using Google Colab and is expected to be run on it. The dataset is uploaded to Google Drive and downloaded to the Colab notebook.
 
 The notebook is self-explanatory and can be run cell by cell. Click on open in Colab button to open the notebook in Colab.
+
 ![Open in Colab](res/colab.png)
 
 Also, the notebook uses Weights and Biases for logging and experiment tracking. You can create a free account on [Weights and Biases](https://wandb.ai/site) and use the API key to log in to the notebook. The API key can be found in your account settings.
